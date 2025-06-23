@@ -6,7 +6,7 @@ The Cybersecurity Awareness Game is an interactive web-based game designed to te
 ## Features
 - **Interactive Questions**: Multiple-choice questions to test knowledge.
 - **Educational Content**: Learn about strong passwords, phishing scams, and more.
-- **Responsive Design**: Works well on desktop and mobile devices.
+- **Responsive Design**: Works well on desktop and mobile devices..
 
 ## Installation
 1. Clone the repository:
